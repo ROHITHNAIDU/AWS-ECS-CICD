@@ -19,7 +19,7 @@ Parameters:
     Default: <GITHUB ACCESS TOKEN>
   ContainerPort:
     Type: Number
-    Default: 8080
+    Default: 80
 
 Resources:
 
